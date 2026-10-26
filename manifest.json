@@ -1,4 +1,5 @@
 {
+  "id": "/index.html",
   "name": "Météo App",
   "short_name": "Météo",
   "description": "Application météo simple et épurée",
@@ -8,23 +9,23 @@
   "theme_color": "#0ea5e9",
   "orientation": "portrait",
   "icons": [
-  {
-    "src": "images/icon-512.jpg",
-    "sizes": "512x512",
-    "type": "image/jpg",
-    "purpose": "any"
-  },
-  {
-    "src": "images/icon-512.jpg",
-    "sizes": "192x192",
-    "type": "image/jpg",
-    "purpose": "any"
-  },
-  {
-    "src": "images/icon-512.jpg",
-    "sizes": "512x512",
-    "type": "image/jpg",
-    "purpose": "maskable"
-  }
-]
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
 }

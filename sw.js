@@ -1,9 +1,11 @@
-const CACHE_NAME = "meteo-app-v1";
+const CACHE_NAME = "meteo-app-v3";
 const urlsToCache = [
   "./",
   "./index.html",
   "./script.js",
   "./manifest.json",
+  "./images/icon-192.png",
+  "./images/icon-512.png",
   "./images/day-1.svg",
   "./images/clouds.svg",
   "./images/rain.svg",
